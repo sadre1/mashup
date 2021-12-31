@@ -6,6 +6,7 @@ document.querySelectorAll("button")[4].addEventListener("click", gotClicked);
 document.querySelectorAll("button")[5].addEventListener("click", gotClicked);
 document.querySelectorAll("button")[6].addEventListener("click", gotClicked);*/
 alert("Pls Refresh the page before going to another song or if anything happens goodluck you can mashup also😁😊😁");
+alert("click on the songs and feel the magic");
 var le=document.querySelectorAll(".drum");
 for(var i=0;i<le.length;i++)
 {
